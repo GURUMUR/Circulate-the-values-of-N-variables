@@ -29,7 +29,7 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-!["Output"](Circulate_outpur.png)
+!["Output"](/Circulate_outpur.png)
 
 
 ## Result:
